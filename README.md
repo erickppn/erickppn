@@ -1,6 +1,6 @@
 <h1> Oiii, sou o Erick Neres👋 </h1>
 
-<!-- **erickneres/erickneres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **erickppn/erickppn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickneres&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickppn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 **Linguagens que pretendo aprender:** 
 
@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 
 **Projetos em que mais me dediquei** 👇
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=erickneres&repo=talent-insight)](https://github.com/erickneres/talent-insight)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=erickppns&repo=talent-insight)](https://github.com/erickppn/talent-insight)
