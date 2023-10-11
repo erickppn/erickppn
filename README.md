@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 
 **Projetos em que mais me dediquei** 👇
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=erickppns&repo=talent-insight)](https://github.com/erickppn/talent-insight)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=erickppn&repo=talent-insight)](https://github.com/erickppn/talent-insight)
